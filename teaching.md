@@ -15,7 +15,5 @@ I take great pleasure in teaching.
 * Taught five third-year physics students at Balliol College, University of Oxford
   * Symmetry and Relativity
 
-##### Freelance Tutor (2010 to present)
-* Taught IB physics and enrichment computer science to various students.
 
 [↳ Full CV](assets/files/CV_Valerian.pdf){: .btn .btn-outline-secondary .btn-center}
