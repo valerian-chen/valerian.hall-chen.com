@@ -2,7 +2,11 @@
 layout: default
 title: Career
 image: Valerian_Career.jpg
+<<<<<<< HEAD
 caption: "Theoretical Physicist | Fusion Scientist"
+=======
+caption: "Theoretical Physicist | Nuclear Fusion Scientist"
+>>>>>>> 4b066e995dd8d38a5780eafe6aae4658396808f5
 ---
 
 ## Education
