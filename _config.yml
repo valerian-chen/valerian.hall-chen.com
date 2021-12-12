@@ -6,9 +6,9 @@ university: A*STAR
 
 building: Connexis # optional
 street: 1 Fusionopolis Way # optional
-city: # optional
+city: Singapore # optional
 postcode: 138632 # optional
-country: Singapore # optional
+country: # optional
 
 email: valerian_hall-chen [at] ihpc.a-star.edu.sg
 secondary: # optional
