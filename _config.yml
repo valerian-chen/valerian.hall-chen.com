@@ -1,13 +1,13 @@
 # CHANGE THIS
 fullname: Valerian Hall-Chen
 position: Scientist
-department: IHPC
-university: A\*STAR
+department: Institute of High Performance Computing
+university: A*STAR
 
-building: # optional
-street: # optional
+building: Connexis # optional
+street: 1 Fusionopolis Way # optional
 city: # optional
-postcode: # optional
+postcode: 138632 # optional
 country: Singapore # optional
 
 email: valerian_hall-chen [at] ihpc.a-star.edu.sg
