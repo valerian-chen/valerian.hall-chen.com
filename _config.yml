@@ -1,14 +1,14 @@
 # CHANGE THIS
 fullname: Valerian Hall-Chen
-position: Doctoral Candidate
-department: Rudolf Peierls Centre for Theoretical Physics / UK Atomic Energy Agency
-university: University of Oxford
+position: Scientist
+department: IHPC
+university: A\*STAR
 
-building: Clarendon Laboratory # optional
-street: Parks Road # optional
-city: Oxford # optional
-postcode: OX1 3PU # optional
-country: UK # optional
+building: # optional
+street: # optional
+city: # optional
+postcode: # optional
+country: Singapore # optional
 
 email: valerian_hall-chen [at] ihpc.a-star.edu.sg
 secondary: # optional
