@@ -2,12 +2,17 @@
 layout: default
 title: Career
 image: Valerian_Career.jpg
-<<<<<<< HEAD
 caption: "Theoretical Physicist | Fusion Scientist"
-=======
-caption: "Theoretical Physicist | Nuclear Fusion Scientist"
->>>>>>> 4b066e995dd8d38a5780eafe6aae4658396808f5
 ---
+
+## Current Work
+
+
+#### Institute of High Performance Computing, A*STAR (2021 &ndash; present)
+*Scientist I*
+
+I am working on microwaves for fusion energy.
+
 
 ## Education
 
@@ -34,12 +39,7 @@ caption: "Theoretical Physicist | Nuclear Fusion Scientist"
 * **H3**: Essentials of Modern Physics (Dist), Science Research (Dist)
 
 
-## Work Experience
-
-#### Institute of High Performance Computing, A*STAR (2021 &ndash; present)
-*Scientist I*
-
-I am working on microwaves for fusion energy.
+## Previous Work Experience
 
 
 #### Institute of Materials Research and Engineering, A*STAR (2016 &ndash; 2016)
