@@ -11,7 +11,7 @@ caption: "Theoretical Physicist | Fusion Scientist"
 #### Institute of High Performance Computing, A*STAR (2021 &ndash; present)
 *Scientist I*
 
-I am working on microwaves for fusion energy.
+I am coordinating and strategising A*STAR's entry into fusion energy research.
 
 
 ## Education

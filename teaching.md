@@ -9,7 +9,7 @@ caption: "The big picture"
 
 I take great pleasure in teaching.
 
-##### College Tutor (2019 to present)
+##### College Tutor (2019 to 2021)
 * Taught seven first-year physics students at New College, University of Oxford
   * Normal Modes and Waves
 * Taught five third-year physics students at Balliol College, University of Oxford
