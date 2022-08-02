@@ -7,8 +7,8 @@
   {% for paper in papers %}
 
     {{ paper.title }}
-    <a class="badge badge-pill badge-secondary" href="{{ paper.arXiv }}">arXiv</a>
-    <a class="badge badge-pill badge-secondary" href="{{ paper.link }}">link</a>
+	{% if paper.arXiv %} <a class="badge badge-pill badge-secondary" href="{{ paper.arXiv }}">arXiv</a> {% endif %}
+	{% if paper.link %} <a class="badge badge-pill badge-secondary" href="{{ paper.link }}">link</a> {% endif %}
     <br>
     <small class="text-secondary">
     {{ paper.authors }}.
