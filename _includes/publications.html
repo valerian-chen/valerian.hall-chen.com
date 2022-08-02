@@ -7,6 +7,7 @@
   {% for paper in papers %}
 
     {{ paper.title }}
+    <a class="badge badge-pill badge-secondary" href="{{ paper.arXiv }}">arXiv</a>
     <a class="badge badge-pill badge-secondary" href="{{ paper.link }}">link</a>
     <br>
     <small class="text-secondary">
