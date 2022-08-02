@@ -9,7 +9,7 @@ caption: "The big picture"
 
 I take great pleasure in teaching.
 
-##### College Tutor (2019 to 2021)
+##### Scientist (2021 to present)
 * Supervising and co-supervising various interns
 * Contact me if interested in discussing internship opportunities
 
