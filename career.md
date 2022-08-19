@@ -11,7 +11,9 @@ caption: "Theoretical Physicist | Fusion Scientist"
 #### Institute of High Performance Computing, A*STAR (2021 &ndash; present)
 *Scientist I*
 
-I am orchestrating A*STAR's entry into fusion energy research.
+I am orchestrating A\*STAR's entry into fusion energy research. Current personal research efforts are primarily in radiofrequency and microwaves for burning plasmas, which spans diagnostics to heating and current drive.
+
+I am chairperson of the Deployed Committee, A\*STAR Scholar's Network. We organise networking and career events for returning scholars, among other things.
 
 
 ## Education
@@ -19,7 +21,7 @@ I am orchestrating A*STAR's entry into fusion energy research.
 #### University of Oxford (2016 &ndash; 2021)
 *DPhil in Theoretical Physics*
 
-* **Thesis title**: Beam model of Doppler backscattering: theory and experiment.
+* **Thesis title**: [Beam model of Doppler backscattering: theory and experiment] (https://ora.ox.ac.uk/objects/uuid:db3f5c6d-78d2-4f77-8dd7-ec379badce04).
 * **Supervisors**: Felix Parra (Oxford) and Jon Hillesheim (UKAEA/CCFE).
 * **Courses attended**: Kinetic Theory, Advanced Fluid Dynamics, Collisional Plasma Physics, Collisionless Plasma Physics.
 

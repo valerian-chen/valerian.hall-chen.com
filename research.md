@@ -7,7 +7,7 @@ caption: "Shedding light"
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 ## Research
-I am coordinating and orchestrating A\*STAR's nascent fusion research programme. Current personal research efforts are primarily in radiofrequency and microwaves for burning plasmas, which spans diagnostics to heating and current drive.
+My background is in the intersection of theoretical physics and fusion experiments; specifically, the interpretation of microwave diagnostics for fusion plasmas. In addition to expanding upon my existing expertise, I am currently pursuing new directions in synthetic diagnostics and heating and current drive.
 
 For a layman-friendly introduction to nuclear fusion, consider listening to our [Oxford podcast](https://podcasts.ox.ac.uk/nuclear-fusion).
 
