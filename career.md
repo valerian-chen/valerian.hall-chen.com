@@ -21,7 +21,7 @@ I am chairperson of the Deployed Committee, A\*STAR Scholar's Network. We organi
 #### University of Oxford (2016 &ndash; 2021)
 *DPhil in Theoretical Physics*
 
-* **Thesis title**: Beam model of Doppler backscattering: theory and experiment. <a class="badge badge-pill badge-secondary" href="https://ora.ox.ac.uk/objects/uuid:db3f5c6d-78d2-4f77-8dd7-ec379badce04">link</a>
+* **Thesis title**: Beam model of Doppler backscattering: theory and experiment. <a class="badge badge-pill badge-secondary" href="https://ora.ox.ac.uk/objects/uuid:db3f5c6d-78d2-4f77-8dd7-ec379badce04" target="_blank">link</a>
 * **Supervisors**: Felix Parra (Oxford) and Jon Hillesheim (UKAEA/CCFE).
 * **Courses attended**: Kinetic Theory, Advanced Fluid Dynamics, Collisional Plasma Physics, Collisionless Plasma Physics.
 
