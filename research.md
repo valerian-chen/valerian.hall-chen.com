@@ -7,10 +7,9 @@ caption: "Shedding light"
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 ## Research
-I got my DPhil (PhD) under the supervision of [Felix Parra](https://www2.physics.ox.ac.uk/contacts/people/parradiaz) (University of Oxford) and [Jon Hillesheim](https://www.researchgate.net/profile/Jon_Hillesheim) (Culham Centre for Fusion Energy). My work focused on measuring and understanding turbulence in fusion plasmas. I developed a model for the interaction between microwaves and turbulent density fluctuations to analyse and interpret data from the Doppler Backscattering (DBS) diagnostic. DBS is especially important for future tokamaks as it is one of the few available diagnostics which are robust enough to withstand high neutron fluxes. For a layman-friendly introduction to nuclear fusion, consider listening to our [Oxford podcast](https://podcasts.ox.ac.uk/nuclear-fusion).
+I am coordinating and orchestrating A\*STAR's nascent fusion research programme. Current personal research efforts are primarily in radiofrequency and microwaves for burning plasmas, which spans diagnostics to heating and current drive.
 
-In addition to my theoretical work, I was also the scientific coordinator of an experiment of MAST-U's first campaign.
-
+For a layman-friendly introduction to nuclear fusion, consider listening to our [Oxford podcast](https://podcasts.ox.ac.uk/nuclear-fusion).
 
 
 <div align="center">
