@@ -5,7 +5,7 @@ authors: "<b>VH Hall-Chen</b>, J Damba, FI Parra, QT Pratt, CA Michael, S Peng, 
 link: "https://doi.org/10.1063/5.0101805"
 arXiv: "https://arxiv.org/abs/2209.15303"
 journal: "Review of Scientific Instruments"
-issue: "10"
+issue: "93"
 page: "103536"
 year: 2022
 ---
