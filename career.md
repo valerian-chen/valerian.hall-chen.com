@@ -9,7 +9,7 @@ caption: "Theoretical Physicist | Fusion Scientist"
 
 
 #### Institute of High Performance Computing, A*STAR (2021 &ndash; present)
-*Scientist I*
+*Scientist*
 
 I am orchestrating A\*STAR's entry into fusion energy research. Current personal research efforts are primarily in radiofrequency and microwaves for burning plasmas, which spans diagnostics to heating and current drive.
 
