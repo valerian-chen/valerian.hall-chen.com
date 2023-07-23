@@ -9,14 +9,17 @@
 
 <br>
 
-{{ person.title }}
+{% if person.title %} {{ person.title }} {% endif %}
+{% if person.affiliation %} {{ person.affiliation }} {% endif %}
 {% if person.status == 'incoming' %} (incoming) {% endif %}
 
 <br>
 
+{% if person.blurb %}
 <div class="text-secondary">
 {{ person.blurb }}
 </div>
+{% endif %}
 
 </div>
 
