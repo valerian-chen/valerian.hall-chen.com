@@ -6,6 +6,6 @@ caption: "Forward together"
 ---
 ## Team
 
-I am the manager of the Plasma Physics & Energy group (page under construction).
+(Page under construction).
 
 {% include team.html %}
