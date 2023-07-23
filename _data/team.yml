@@ -1,19 +1,19 @@
-- name: Edwin Lock
-  title: Benevolent dictator for life 
+- name: Placeholder
+  title: Placeholder
   role: staff
   status: current
-  blurb: "Leads us to a glorious future. Has been with us forever, and will outlive all."
+  blurb: "Test."
   website: https://www.edwinlock.com
 
-- name: Henry Lock
-  title: Doctoral prize fellow
+- name: Placeholder
+  title: Placeholder
   role: student
   status: incoming
-  blurb: "The future of Fusion."
+  blurb: "Test."
   website: https://www.henrylock.com
 
-- name: God
-  title: Religious head
-  role: staff
+- name: Placeholder
+  title: Placeholder
+  role: student
   status: former
-  blurb: "God is dead. --Nietzsche"
+  blurb: "Test."
