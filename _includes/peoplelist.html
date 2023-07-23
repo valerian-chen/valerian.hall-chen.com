@@ -1,0 +1,22 @@
+{% for person in include.people %}
+<div class='mt-2 mb-3'>
+
+{{ person.name }}
+
+{% if person.website %}
+<a class="badge badge-primary" href="{{ person.website }}">website</a>
+{% endif %}
+
+<br>
+
+{{ person.title }}
+
+<br>
+
+<div class="text-secondary">
+{{ person.blurb }}
+</div>
+
+</div>
+
+{% endfor %}
