@@ -9,8 +9,8 @@
 
 <br>
 
-{% if person.title %} {{ person.title }} {% endif %}
-{% if person.affiliation %} {{ person.affiliation }} {% endif %}
+{% if person.title %} {{ person.title }}, {% endif %}
+{% if person.affiliation %} {{ person.affiliation }}. {% endif %}
 {% if person.status == 'incoming' %} (incoming) {% endif %}
 
 <br>

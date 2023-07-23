@@ -35,9 +35,13 @@
   status: current
   website: https://www.linkedin.com/in/kerwinsoh/
 
-- name: Placeholder
-  title: Placeholder
+- name: **Fong** Ken Rui
+  affiliation: National University of Singapore
+  role: student
+  status: current
+
+- name: **Ni** Shikang
+  title: Intern
+  affiliation: University of Cambridge.
   role: student
   status: former
-  blurb: "Test."
-  website: https://www.edwinlock.com
