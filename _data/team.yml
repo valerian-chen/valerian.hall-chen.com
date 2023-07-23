@@ -45,10 +45,10 @@
   role: student
   status: current
 
-  - name: "**Tiong** Jackson"
-    affiliation: National University of Singapore
-    role: student
-    status: current
+- name: "**Tiong** Jackson"
+  affiliation: National University of Singapore
+  role: student
+  status: current
 
 - name: "**Ni** Shikang"
   title: Intern
