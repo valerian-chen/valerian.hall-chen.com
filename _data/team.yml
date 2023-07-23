@@ -15,11 +15,19 @@
   affiliation: Plasma Physics & Energy Group
   role: staff
   status: current
+  website: https://www.linkedin.com/in/xing-tingjing/
 
 - name: Andy **Yeoh**
   affiliation: University of Oxford
   role: student
   status: current
+  website: https://www.linkedin.com/in/andy-yeoh-kaijie-b5b895248/
+
+- name: Kerwin **Soh**
+  affiliation: Nanyang Technological University
+  role: student
+  status: current
+  website: https://www.linkedin.com/in/kerwinsoh/
 
 - name: Placeholder
   title: Placeholder
