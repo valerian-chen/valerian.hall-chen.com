@@ -9,4 +9,3 @@ caption: "Forward together"
 I currently supervise the following team.
 
 {% include team.html %}
-
