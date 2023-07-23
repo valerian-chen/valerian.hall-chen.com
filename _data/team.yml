@@ -1,19 +1,26 @@
-- name: Placeholder
-  title: Placeholder
+- name: **Lim** Jiun Yeu
+  title: Research Engineer
   role: staff
   status: current
-  blurb: "Test."
-  website: https://www.edwinlock.com
 
-- name: Placeholder
-  title: Placeholder
+- name: Xavior **Wang**
+  title: Research Engineer
+  role: staff
+  status: current
+
+- name: **Xing** Tingjing
+  title: Research Engineer
+  role: staff
+  status: current
+
+- name: Andy **Yeoh**
+  title: Pre-undergraduate intern
   role: student
-  status: incoming
-  blurb: "Test."
-  website: https://www.henrylock.com
+  status: current
 
 - name: Placeholder
   title: Placeholder
   role: student
   status: former
   blurb: "Test."
+  website: https://www.edwinlock.com

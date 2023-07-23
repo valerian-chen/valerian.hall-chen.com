@@ -14,6 +14,11 @@
 {% include peoplelist.html people = students %}
 {% endif %}
 
+{% if collaborators.size > 0 %}
+<h4 class="mt-4">Collaborators</h4>
+{% include peoplelist.html people = collaborators %}
+{% endif %}
+
 {% if former.size > 0 %}
 <h4 class="mt-4">Former team members</h4>
 {% include peoplelist.html people = former %}
