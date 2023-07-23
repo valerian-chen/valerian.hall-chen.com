@@ -9,9 +9,10 @@ caption: "Theoretical Physicist | Fusion Scientist"
 
 
 #### Institute of High Performance Computing, A*STAR (2021 &ndash; present)
-*Scientist*
+*Group Manager, Plasma Physics \& Energy*
+*Technical Lead, A\*STAR Fusion Taskforce*
 
-I am orchestrating A\*STAR's entry into fusion energy research. Current personal research efforts are primarily in radiofrequency and microwaves for burning plasmas, which spans diagnostics to heating and current drive.
+Our group covers topics from developing fusion energy to simulating urban environments. I am also orchestrating A\*STAR's entry into fusion energy research. Current personal research efforts are primarily in radiofrequency and microwaves for burning plasmas, which spans diagnostics to heating and current drive.
 
 I am chairperson of the Deployed Committee, A\*STAR Scholar's Network. We organise networking and career events for returning scholars, among other things.
 
