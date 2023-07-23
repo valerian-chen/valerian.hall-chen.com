@@ -1,0 +1,20 @@
+{% assign current = site.data.team | where_exp: "item", "item.status != 'former'" %}
+{% assign former = site.data.team | where_exp: "item", "item.status == 'former'" %}
+
+{% assign staff = current | where: "role": "staff" %}
+{% assign students = current | where: "role": "student" %}
+
+{% if staff.size > 0 %}
+<h4 class="mt-4">Staff</h4>
+{% include peoplelist.html people = staff %}
+{% endif %}
+
+{% if students.size > 0 %}
+<h4 class="mt-4">Students</h4>
+{% include peoplelist.html people = students %}
+{% endif %}
+
+{% if former.size > 0 %}
+<h4 class="mt-4">Former team members</h4>
+{% include peoplelist.html people = former %}
+{% endif %}
