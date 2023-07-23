@@ -4,6 +4,12 @@
   role: staff
   status: current
 
+- name: Ray **Ng**
+  title: Scientist
+  affiliation: Light Wave Group
+  role: staff
+  status: current
+
 - name: Xavior **Wang**
   title: Research Engineer
   affiliation: Plasma Physics & Energy Group
