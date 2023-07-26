@@ -28,6 +28,11 @@
   role: student
   status: current
 
+- name: "James **Winston**"
+  affiliation: National University of Singapore
+  role: student
+  status: current
+
 - name: "Andy **Yeoh**"
   affiliation: University of Oxford
   role: student
@@ -49,6 +54,13 @@
   affiliation: National University of Singapore
   role: student
   status: current
+
+- name: "Juan **Ruiz Ruiz**"
+  title: Postdoc
+  affiliation: University of Oxford
+  role: collaborators
+  status: current
+  website: https://scholar.google.es/citations?user=1IVAMYYAAAAJ&hl=en
 
 - name: "**Ni** Shikang"
   title: Intern
