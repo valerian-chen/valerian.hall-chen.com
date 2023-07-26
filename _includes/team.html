@@ -3,6 +3,7 @@
 
 {% assign staff = current | where: "role": "staff" %}
 {% assign students = current | where: "role": "student" %}
+{% assign collaborators = current | where: "role": "collaborator" %}
 
 {% if staff.size > 0 %}
 <h4 class="mt-4">Staff</h4>
