@@ -63,6 +63,18 @@
   status: current
   website: https://scholar.google.es/citations?user=1IVAMYYAAAAJ&hl=en
 
+- name: "Terry **Rhodes**"
+  affiliation: Plasma Diagnostics Group, UCLA
+  role: collaborator
+  status: current
+  website: https://www.researchgate.net/profile/Terry-Rhodes
+
+- name: "Neal **Crocker**"
+  affiliation: Plasma Diagnostics Group, UCLA
+  role: collaborator
+  status: current
+  website: https://scholar.google.com/citations?user=Zd83SuAAAAAJ&hl=en 
+
 - name: "**Ni** Shikang"
   title: Intern
   affiliation: University of Cambridge
