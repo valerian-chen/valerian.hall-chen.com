@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team
-image: Valerian_Teaching.jpg
+image: Valerian_Team.jpg
 caption: "Forward together"
 ---
 ## Team
