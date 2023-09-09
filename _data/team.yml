@@ -90,6 +90,18 @@
   status: current
   website: https://scholar.google.com/citations?user=Zd83SuAAAAAJ&hl=en
 
+- name: "**Gu** Lin"
+  affiliation: RIKEN
+  role: collaborator
+  status: current
+  website: https://scholar.google.com/citations?user=gIEZe5IAAAAJ&hl=en
+
+- name: "Ruben **Otin**"
+  affiliation: UKAEA
+  role: collaborator
+  status: current
+  website: http://tts.cimne.com/ermes/aboutus.html
+
 - name: "**Ni** Shikang"
   title: Intern
   affiliation: University of Cambridge
