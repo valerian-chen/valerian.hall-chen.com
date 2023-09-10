@@ -3,6 +3,6 @@ layout: valerian
 image: Valerian_Profile.jpg
 ---
 <div class="d-grid gap-2 d-md-block">
-  <button class="btn btn-outline-secondary" type="button">[↳ Download CV](assets/files/CV_Valerian.pdf)</button>
-  <button class="btn btn-outline-secondary" type="button">[↳ Join us](https://valerian.hall-chen.com/open_positions.html)</button>
+  <a class="btn btn-outline-secondary" href="assets/files/CV_Valerian.pdf" role="button">Download CV</a>
+  <a class="btn btn-outline-secondary" href="https://valerian.hall-chen.com/open_positions.html" role="button">Join us</a>
 </div>
