@@ -45,7 +45,7 @@ There is some funding available for [Singaporean](https://www.a-star.edu.sg/Scho
 
 The projects available in this category are shorter term and thus more ad hoc than PhD projects. As such, they change rapidly as new discoveries are made in the field; the list here is far from exhaustive. Please contact me to find out what is currently available. Broadly speaking, there are usually experimental and computational projects available. Pen-and-paper theory projects are sometimes available, but those usually take at least 6 months.
 
-By and large, my goal is for interns to publish their work, but given the uncertain nature of research, this is not always possible.
+By and large, my goal is for interns (at least those directly supervised by me) to publish their work, but given the uncertain nature of research, this is not always possible.
 
 ##### Physics-informed neural networks for plasma simulations
 * Main supervisor: Ronald Chan.
