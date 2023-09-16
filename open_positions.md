@@ -46,3 +46,11 @@ There is some funding available for [Singaporean](https://www.a-star.edu.sg/Scho
 The projects available in this category are shorter term and thus more ad hoc than PhD projects. As such, they change rapidly as new discoveries are made in the field; the list here is far from exhaustive. Please contact me to find out what is currently available. Broadly speaking, there are usually experimental and computational projects available. Pen-and-paper theory projects are sometimes available, but those usually take at least 6 months.
 
 By and large, my goal is for interns to publish their work, but given the uncertain nature of research, this is not always possible.
+
+##### Physics-informed neural networks for plasma simulations
+* Main supervisor: Ronald Chan.
+* Co-supervisor: Ooi Chin Chun.
+* Collaborator: Plamen Ivanov (U. of Oxford).
+* Duration: At least 6 months.
+
+Understanding the plasma dynamics in confined plasmas is crucial to the successful design of a nuclear fusion reactor, which promises sustainable baseload electricity generation. Machine learning tools, such as neural networks, can be combined with physics constraints and governing equations to accelerate understanding of these complex systems. We will use numerical simulations of reduced plasma systems based on the Hasegawa-Wakatani and gyrokinetic equations to train physics-informed neural networks and assess their effectiveness in modelling such systems.
