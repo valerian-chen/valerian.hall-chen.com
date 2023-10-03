@@ -36,6 +36,11 @@
   status: current
   website: https://www.linkedin.com/in/xing-tingjing/
 
+- name: "Matthew **Liang**"
+  affiliation: Imperial College London
+  role: student
+  status: current
+
 - name: "Irwin **Tan**"
   affiliation: National University of Singapore
   role: student
@@ -72,7 +77,6 @@
   status: former
 
 - name: "Juan **Ruiz Ruiz**"
-  title: Postdoc
   affiliation: University of Oxford
   role: collaborator
   status: current
