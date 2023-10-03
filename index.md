@@ -9,7 +9,6 @@ I am **Group Manager** of the Plasma Physics and Energy Group at the Institute o
   <a class="btn btn-outline-secondary" href="https://valerian.hall-chen.com/open_positions.html" role="button">Join us</a>
 </div>
 
-</br>
-</br>
+&nbsp;
 
 I hold a BA in Natural Sciences (Physics) from the University of Cambridge. I completed a DPhil in Theoretical Physics from the University of Oxford under the supervision of Felix Parra and Jon Hillesheim.
