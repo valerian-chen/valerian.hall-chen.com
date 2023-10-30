@@ -9,12 +9,7 @@ There are various projects on fusion energy available. This list is not exhausti
 ## Open PhD Projects
 These projects are typically funded by A\*STAR scholarships, which are open to both [Singaporean](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore) and [international](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) students. There is also an [AI-specific A\*STAR scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-cis-scholarship). Since A\*STAR does not award degrees, students need to be enrolled in a university, such as NUS or NTU. Students at foreign universities are also welcome to work with us for one to two years, funded under the [ARAP scheme](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-research-attachment-programme).
 
-##### Deriving beam tracing for warm plasmas
-* Main supervisor: Valerian Hall-Chen.
-* Collaborator: Juan Ruiz Ruiz (U. of Oxford).
-
-For fusion reactions to happen, the fuel must be heated to several times the temperature of the centre of the sun. This process relies on high-powered microwaves. Moreover, in steady state operation, such microwaves are used to quell various instabilities. As such, it is important to understand the propagation and absorption of these microwaves. Speed is of essence, since some of these microwave launchers have to be controlled in real time. The theory of plane wave absorption is well-studied, however, it does not account for physical effects like diffraction. Full-wave codes account for all physics but are slow to run. Beam tracing, a useful intermediate, does not yet have the theoretical framework that accounts for variation of absorption across the beam. Developing a warm plasma model of beam tracing is the focus of this theoretical physics project.
-
+Our projects range from purely pen-and-paper theory to intensive computation to data analysis. The list here is not exhaustive.
 
 ##### Experimental study of turbulence in tokamaks
 * Main supervisor: Valerian Hall-Chen.
