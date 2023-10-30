@@ -11,6 +11,7 @@ These projects are typically funded by A\*STAR scholarships, which are open to b
 
 Our projects range from purely pen-and-paper theory to intensive computation to data analysis. The list here is not exhaustive.
 
+
 ##### Experimental study of turbulence in tokamaks
 * Main supervisor: Valerian Hall-Chen.
 * Collaborator: Terry Rhodes (UCLA).
