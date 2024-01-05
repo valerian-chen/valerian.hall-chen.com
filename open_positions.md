@@ -37,7 +37,7 @@ In today’s fusion experiments, the fuel routinely reaches temperatures many ti
 
 
 ## Open Internship and Final-Year Projects
-There is some funding available for [Singaporean](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/a-star-research-internship-award-aria) and [international](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) students.
+There is some funding available for [Singaporean](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/a-star-research-internship-award-aria) and [international](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) students. If you are applying for funding, please contact me at least 6 months before the start date. In general, it is never too early to write to me.
 
 The projects available in this category are shorter term and thus more ad hoc than PhD projects. As such, they change rapidly as new discoveries are made in the field; the list here is far from exhaustive. Please contact me to find out what is currently available. Broadly speaking, there are usually experimental and computational projects available. Pen-and-paper theory projects are sometimes available, but those usually take at least 6 months.
 
