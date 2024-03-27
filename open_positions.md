@@ -6,6 +6,8 @@ caption: "Forward together"
 ---
 There are various projects on fusion energy available. This list is not exhaustive. Please contact me for more details.
 
+*We are no longer accepting applications for undergraduate internships in summer 2024*.
+
 ## Open PhD Projects
 These projects are typically funded by A\*STAR scholarships, which are open to both [Singaporean](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore) and [international](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) students. There is also an [AI-specific A\*STAR scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-cis-scholarship). Since A\*STAR does not award degrees, students need to be enrolled in a university, such as NUS or NTU. Students at foreign universities are also welcome to work with us for one to two years, funded under the [ARAP scheme](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-research-attachment-programme).
 
