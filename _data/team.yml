@@ -30,6 +30,35 @@
   status: current
   website: https://www.linkedin.com/in/xing-tingjing/
 
+- name: "Zoe **Fong**"
+  affiliation: University of Southampton
+  role: student
+  status: current
+  website: https://www.linkedin.com/in/zoe-fong-30a6031aa/
+
+- name: "Eduard **Wikarta**"
+  affiliation: Nanyang Technological University
+  role: student
+  status: current
+  website: https://www.linkedin.com/in/eduardwikarta/
+
+- name: "**Ho** Yee Suan"
+  affiliation: Nanyang Technological University
+  role: student
+  status: current
+
+- name: "**He** Donghang"
+  affiliation: University of Cambridge
+  role: student
+  status: current
+  website: https://www.linkedin.com/in/donghang-he/
+
+- name: "**Wang** Junzhe"
+  affiliation: University of Cambridge
+  role: student
+  status: current
+  website: https://www.linkedin.com/in/junzhe-wang-1653b3293/
+
 - name: "Lewin **Marsh**"
   affiliation: University of Oxford
   role: student
