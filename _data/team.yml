@@ -1,9 +1,3 @@
-- name: "Yvette **Chow**"
-  title: Senior Research Engineer
-  affiliation: Plasma Physics & Energy Group
-  role: staff
-  status: current
-
 - name: "Johnathan **Yik**"
   title: Senior Scientist
   affiliation: Plasma Physics & Energy Group
@@ -151,6 +145,12 @@
   role: collaborator
   status: current
   website: https://ruben-otin.blogspot.com/
+
+- name: "Yvette **Chow**"
+  title: Senior Research Engineer
+  affiliation: Plasma Physics & Energy Group
+  role: staff
+  status: former
 
 - name: "**Lim** Jiun Yeu"
   title: Research Engineer
