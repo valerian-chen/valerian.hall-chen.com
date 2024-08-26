@@ -4,24 +4,18 @@
   role: staff
   status: current
 
-- name: "James **Winston**"
-  title: Research Engineer
-  affiliation: Plasma Physics & Energy Group  affiliation: Research
-  role: staff
-  status: current
-
 - name: "Xavior **Wang**"
   title: Research Engineer
   affiliation: Plasma Physics & Energy Group
   role: staff
-  status: former
+  status: current
   website: https://www.linkedin.com/in/xavior-wang-xuchen/
 
 - name: "**Xing** Tingjing"
   title: Research Engineer
   affiliation: Plasma Physics & Energy Group
   role: staff
-  status: former
+  status: current
   website: https://www.linkedin.com/in/xing-tingjing/
 
 - name: "Zoe **Fong**"
@@ -29,11 +23,6 @@
   role: student
   status: current
   website: https://www.linkedin.com/in/zoe-fong-30a6031aa/
-
-- name: "Mahek **Arora**"
-  affiliation: National University of Singapore
-  role: student
-  status: current
 
 - name: "Spencer **Kwan**"
   affiliation: University of Wisconsin-Madison
@@ -87,6 +76,11 @@
   website: https://www.linkedin.com/in/matthew-liang-82158517b/
 
 - name: "Irwin **Tan**"
+  affiliation: National University of Singapore
+  role: student
+  status: current
+
+- name: "James **Winston**"
   affiliation: National University of Singapore
   role: student
   status: current
