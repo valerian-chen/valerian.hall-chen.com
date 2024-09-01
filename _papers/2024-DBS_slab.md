@@ -1,5 +1,5 @@
 ---
-number: 99979
+number: 99978
 title: "Beam focusing and consequences for Doppler Backscattering measurements"
 authors: "J Ruiz Ruiz, FI Parra, <b>VH Hall-Chen</b>, N Belrhali, C Giroud, JC Hillesheim, NA Lopez, JET contributors"
 arXiv: "https://arxiv.org/abs/2408.12919"
