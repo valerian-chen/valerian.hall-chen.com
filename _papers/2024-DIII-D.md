@@ -1,0 +1,10 @@
+---
+number: 99980
+title: "DIII-D research to provide solutions for ITER and fusion energy"
+authors: "CT Holcomb, ..., <b>VH Hall-Chen</b>, ..."
+link: "https://doi.org/10.1088/1741-4326/ad2fe9"
+journal: "Nuclear Fusion"
+issue: "64"
+page: "112003"
+year: 2024
+---
