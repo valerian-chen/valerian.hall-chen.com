@@ -4,29 +4,10 @@
   role: staff
   status: current
 
-- name: "Xavior **Wang**"
+- name: "James **Winston**"
   title: Research Engineer
   affiliation: Plasma Physics & Energy Group
   role: staff
-  status: former
-  website: https://www.linkedin.com/in/xavior-wang-xuchen/
-
-- name: "**Xing** Tingjing"
-  title: Research Engineer
-  affiliation: Plasma Physics & Energy Group
-  role: staff
-  status: former
-  website: https://www.linkedin.com/in/xing-tingjing/
-
-- name: "Zoe **Fong**"
-  affiliation: University of Southampton
-  role: student
-  status: current
-  website: https://www.linkedin.com/in/zoe-fong-30a6031aa/
-
-- name: "Spencer **Kwan**"
-  affiliation: University of Wisconsin-Madison
-  role: student
   status: current
 
 - name: "**Chan** Long Shan"
@@ -63,12 +44,6 @@
   status: current
   website: https://www.linkedin.com/in/lewin-marsh-9574a0232/
 
-- name: "Aryan **Law**"
-  affiliation: UCLA
-  role: student
-  status: current
-  website: https://www.linkedin.com/in/aryan-law-7047281a1/
-
 - name: "Matthew **Liang**"
   affiliation: Imperial College London
   role: student
@@ -76,11 +51,6 @@
   website: https://www.linkedin.com/in/matthew-liang-82158517b/
 
 - name: "Irwin **Tan**"
-  affiliation: National University of Singapore
-  role: student
-  status: current
-
-- name: "James **Winston**"
   affiliation: National University of Singapore
   role: student
   status: current
@@ -139,6 +109,37 @@
   role: collaborator
   status: current
   website: https://ruben-otin.blogspot.com/
+
+- name: "Aryan **Law**"
+  affiliation: UCLA
+  role: student
+  status: former
+  website: https://www.linkedin.com/in/aryan-law-7047281a1/
+
+- name: "Xavior **Wang**"
+  title: Research Engineer
+  affiliation: Plasma Physics & Energy Group
+  role: staff
+  status: former
+  website: https://www.linkedin.com/in/xavior-wang-xuchen/
+
+- name: "**Xing** Tingjing"
+  title: Research Engineer
+  affiliation: Plasma Physics & Energy Group
+  role: staff
+  status: former
+  website: https://www.linkedin.com/in/xing-tingjing/
+
+- name: "Zoe **Fong**"
+  affiliation: University of Southampton
+  role: student
+  status: current
+  website: https://www.linkedin.com/in/zoe-fong-30a6031aa/
+
+- name: "Spencer **Kwan**"
+  affiliation: University of Wisconsin-Madison
+  role: student
+  status: former
 
 - name: "Yvette **Chow**"
   title: Senior Research Engineer
