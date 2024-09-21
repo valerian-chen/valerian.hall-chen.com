@@ -10,6 +10,18 @@
   role: staff
   status: current
 
+- name: "Danis **Klanurak**"
+  affiliation: Prince of Songkla University
+  role: student
+  status: current
+  website: https://www.linkedin.com/in/danis-klanurak-1a226b281/
+  
+ - name: "Thiti **Aungcharoen**"
+  affiliation: Prince of Songkla University
+  role: student
+  status: current
+  website: https://www.linkedin.com/in/thiti-aungcharoen-1015492b0/
+
 - name: "**Chan** Long Shan"
   affiliation: Nanyang Technological University
   role: student
