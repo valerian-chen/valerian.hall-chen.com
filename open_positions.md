@@ -26,7 +26,7 @@ Turbulence is arguably the last major remaining physics challenge pertaining to 
 * Co-supervisor: Valerian Hall-Chen.
 * Collaborators: Terry Rhodes (UCLA).
 
-AI addresses two problems in fusion diagnostics. First, future fusion power plants will use diagnostics as control systems, which means a quick response is required, giving time to apply countermeasures when instabilities are detected. Second, analysis of today’s diagnostic data can be onerous, requiring laborious effort from trained operators. As such, there is more data available than data than can be analysed via traditional means. AI addresses these issues. The student will use AI to identify and forecast plasma events by studying data from at least one diagnostic, such as reflectometry, Doppler backscattering, high-k scattering, or synthetic-aperture microwave imaging.
+AI addresses two problems in fusion diagnostics. First, future fusion power plants will use diagnostics as control systems, which means a quick response is required, giving time to apply countermeasures when instabilities are detected. Second, analysis of today’s diagnostic data can be onerous, requiring laborious effort from trained operators. As such, there is more data available than data than can be analysed via traditional means. The student will use AI to identify and forecast plasma events by studying data from at least one diagnostic, such as reflectometry, Doppler backscattering, high-k scattering, or synthetic-aperture microwave imaging.
 
 
 ##### Full-wave modelling of ion-cyclotron resonance heating
