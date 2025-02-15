@@ -7,15 +7,9 @@ caption: "Theoretical Physicist | Fusion Scientist"
 
 ## Current Work
 
-
-#### Institute of High Performance Computing, A*STAR (2021 &ndash; present)
-*Group Manager, Plasma Physics & Energy*\
-*Technical Lead, A\*STAR Fusion Taskforce*
-
-Our group covers topics from developing fusion energy to simulating urban environments. I am also orchestrating A\*STAR's entry into fusion energy research. Current personal research efforts are primarily in radiofrequency and microwaves for burning plasmas, which spans diagnostics to heating and current drive.
-
-I am chairperson of the Deployed Committee, A\*STAR Scholar's Network. We organise networking and career events for returning scholars, among other things.
-
+#### Future Energy Acceleration and Translation Programme, A*STAR (2025 &ndash; present)
+*Head, Plasma Physics & Diagnostics*\
+*Principal Investigator*
 
 ## Education
 
@@ -43,6 +37,14 @@ I am chairperson of the Deployed Committee, A\*STAR Scholar's Network. We organi
 
 
 ## Previous Work Experience
+
+#### Institute of High Performance Computing, A*STAR (2021 &ndash; 2024)
+*Group Manager, Plasma Physics & Energy*\
+*Technical Lead, A\*STAR Fusion Taskforce*
+
+Our group covered topics from developing fusion energy to simulating urban environments. I orchestrated A\*STAR's entry into fusion energy research. My research effort was primarily in radiofrequency and microwaves for burning plasmas, which spanned diagnostics to heating and current drive.
+
+I was chairperson of the Deployed Committee, A\*STAR Scholar's Network. We organised networking and career events for returning scholars.
 
 
 #### Institute of Materials Research and Engineering, A*STAR (2016 &ndash; 2016)
