@@ -7,20 +7,9 @@ caption: "Theoretical Physicist | Fusion Scientist"
 
 ## Current Work
 
-<<<<<<< HEAD
 #### Future Energy Acceleration and Translation Programme, A*STAR (2025 &ndash; present)
 *Head, Plasma Physics & Diagnostics*\
 *Principal Investigator*
-=======
-
-#### Institute of High Performance Computing, A*STAR (2021 &ndash; present)
-*Principal Investigator*\
-*Group Manager, Plasma Physics & Energy*\
-*Technical Lead, A\*STAR Fusion Taskforce*
-
-Our group covers topics from developing fusion energy to simulating urban environments. I am also orchestrating A\*STAR's entry into fusion energy research. Current personal research efforts are primarily in radiofrequency and microwaves for burning plasmas, which spans diagnostics to heating and current drive.
-
->>>>>>> 1c26f5c85801b3d0b25868a0741efee82355742a
 
 ## Education
 
