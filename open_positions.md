@@ -26,12 +26,12 @@ Turbulence is arguably the last major remaining physics challenge pertaining to 
 * Co-supervisor: Valerian Hall-Chen.
 * Collaborators: Terry Rhodes (UCLA).
 
-AI addresses two problems in fusion diagnostics. First, future fusion power plants will use diagnostics as control systems, which means a quick response is required, giving time to apply countermeasures when instabilities are detected. Second, analysis of today’s diagnostic data can be onerous, requiring laborious effort from trained operators. As such, there is more data available than data than can be analysed via traditional means. AI addresses these issues. The student will use AI to identify and forecast plasma events by studying data from at least one diagnostic, such as reflectometry, Doppler backscattering, high-k scattering, or synthetic-aperture microwave imaging.
+AI addresses two problems in fusion diagnostics. First, future fusion power plants will use diagnostics as control systems, which means a quick response is required, giving time to apply countermeasures when instabilities are detected. Second, analysis of today’s diagnostic data can be onerous, requiring laborious effort from trained operators. As such, there is more data available than data than can be analysed via traditional means. The student will use AI to identify and forecast plasma events by studying data from at least one diagnostic, such as reflectometry, Doppler backscattering, high-k scattering, or synthetic-aperture microwave imaging.
 
 
 ##### Full-wave modelling of ion-cyclotron resonance heating
-* Main supervisor: Johnathan Yik.
-* Co-supervisors: Bui Viet Phuong, Valerian Hall-Chen.
+* Main supervisor: Valerian Hall-Chen.
+* Co-supervisors: Bui Viet Phuong.
 * Collaborator: Ruben Otin (UKAEA).
 
 In today’s fusion experiments, the fuel routinely reaches temperatures many times hotter than the centre of the sun. Heating the fuel to such temperatures can be achieved by various methods, such as using high-powered (~MW) radio waves or microwaves. The large powers involved mean that these waves might inadvertently damage components in the reactor. As such, it is important to understand how these waves propagate and how they might scatter off turbulence in the edge, resulting in deflection. The student is also expected to travel to international collaborators’ fusion experiments to validate their code and work with experimentalists on developing fusion plasma scenarios.
