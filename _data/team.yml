@@ -16,8 +16,13 @@
   role: staff
   status: current
 
+- name: "**Lee** Rui Kai"
+  affiliation: National University of Singapore
+  role: student
+  status: current
+
 - name: "Mahmoud **Atta**"
-  affiliation: Raffles Institution
+  affiliation: Cairo University
   role: student
   status: current
 
