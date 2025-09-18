@@ -11,13 +11,15 @@
   status: current
 
 - name: "Eduard **Wikarta**"
-  affiliation: Research Engineer
+  title: Research Engineer
+  affiliation: Plasma Physics & Diagnostics, FEAT
   role: staff
   status: current
   website: https://www.linkedin.com/in/eduardwikarta/
 
 - name: "**Tan** Yunn Ting"
-  affiliation: Research Engineer
+  title: Research Engineer
+  affiliation: Plasma Physics & Diagnostics, FEAT
   role: staff
   status: current
   website: https://www.linkedin.com/in/tanyunnting/
