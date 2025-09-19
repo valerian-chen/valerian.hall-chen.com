@@ -32,6 +32,11 @@
   role: staff
   status: current
 
+- name: "**Zhu** Siyu"
+  affiliation: Huazhong University of Science and Technology
+  role: student
+  status: current
+
 - name: "**Lee** Rui Kai"
   affiliation: National University of Singapore
   role: student
@@ -60,6 +65,18 @@
   role: student
   status: current
   website: https://www.linkedin.com/in/andy-yeoh-kaijie-b5b895248/
+
+- name: "**Hu** Jingyan"
+  affiliation: University of Science and Technology of China
+  role: student
+  status: current
+  website: https://www.linkedin.com/in/jingyan-hu-387589372/
+
+- name: "**Zhao** Wenkang"
+  affiliation: Imperial College London
+  role: student
+  status: current
+  website: https://www.linkedin.com/in/wenkang-zhao-74ba64227/
 
 - name: "**Chan** Long Shan"
   affiliation: Nanyang Technological University
