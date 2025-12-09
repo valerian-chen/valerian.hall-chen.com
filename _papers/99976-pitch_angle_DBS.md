@@ -5,7 +5,7 @@ authors: "AK Yeoh, <b>VH Hall-Chen</b>, QT Pratt, BS Victor, J Damba, TL Rhodes,
 link: "https://iopscience.iop.org/article/10.1088/1741-4326/ae1518"
 arXiv: "https://arxiv.org/abs/2502.19061"
 journal: "Nuclear Fusion"
-issue: ""
-page: ""
+issue: "66"
+page: "016052"
 year: 2025
 ---
