@@ -25,6 +25,13 @@
   role: staff
   status: current
   website: https://www.linkedin.com/in/tanyunnting/
+  
+- name: "**Tang** Tengfei"
+  title: Senior Scientist
+  affiliation: Plasma Physics & Diagnostics, FEAT
+  role: staff
+  status: current
+  website: https://orcid.org/0000-0002-8698-9985
 
 - name: "Ray **Ng**"
   title: Senior Scientist
