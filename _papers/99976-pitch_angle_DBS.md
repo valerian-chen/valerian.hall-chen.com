@@ -7,5 +7,5 @@ arXiv: "https://arxiv.org/abs/2502.19061"
 journal: "Nuclear Fusion"
 issue: "66"
 page: "016052"
-year: 2025
+year: 2026
 ---
