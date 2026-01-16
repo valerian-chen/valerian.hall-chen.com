@@ -1,5 +1,5 @@
 ---
-number: 99974
+number: 99973
 title: "Conceptual design of a Doppler Backscattering diagnostic for the EXL-50U spherical tokamak"
 authors: "YHM Liang, <b>VH Hall-Chen</b>, TL Rhodes, Y Wang, Y Zhao"
 arXiv: "https://arxiv.org/abs/2509.18532"
