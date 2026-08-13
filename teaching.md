@@ -10,8 +10,8 @@ caption: "The big picture"
 I take great pleasure in teaching and learning.
 
 ##### Scientist (2021 to present)
-* Currently supervising three final-year-project (undergraduate thesis) students and various interns.
-* Previously supervised over fifteen interns.
+* Currently supervising various interns.
+* Previously supervised over fifty interns.
 * Contact me if interested in discussing internship and PhD opportunities. Analytical, computational, and experimental projects available.
 
 ##### College Tutor (2019 to 2021)
