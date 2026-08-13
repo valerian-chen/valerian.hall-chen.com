@@ -40,16 +40,12 @@
   status: current
   website: https://orcid.org/0000-0003-4502-7189
 
-- name: "Ray **Ng**"
-  title: Senior Scientist
-  affiliation: Light Wave Group, IHPC
+- name: "Andy **Yeoh**"
+  title: Research Engineer
+  affiliation: Plasma Physics & Diagnostics, FEAT
   role: staff
   status: current
-
-- name: "**Zhu** Siyu"
-  affiliation: Huazhong University of Science and Technology
-  role: student
-  status: current
+  website: https://www.linkedin.com/in/andy-yeoh-kaijie-b5b895248/
 
 - name: "**Lee** Rui Kai"
   affiliation: National University of Singapore
@@ -74,17 +70,22 @@
   status: current
   website: https://www.linkedin.com/in/matthew-liang-82158517b/
 
-- name: "Andy **Yeoh**"
-  affiliation: University of Oxford
-  role: student
-  status: current
-  website: https://www.linkedin.com/in/andy-yeoh-kaijie-b5b895248/
-
 - name: "**Hu** Jingyan"
   affiliation: University of Science and Technology of China
   role: student
-  status: current
+  status: former
   website: https://www.linkedin.com/in/jingyan-hu-387589372/
+
+- name: "Ray **Ng**"
+  title: Senior Scientist
+  affiliation: Light Wave Group, IHPC
+  role: staff
+  status: former
+
+- name: "**Zhu** Siyu"
+  affiliation: Huazhong University of Science and Technology
+  role: student
+  status: former
 
 - name: "**Zhao** Wenkang"
   affiliation: Imperial College London
