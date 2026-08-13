@@ -70,12 +70,6 @@
   status: current
   website: https://www.linkedin.com/in/matthew-liang-82158517b/
 
-- name: "**Hu** Jingyan"
-  affiliation: University of Science and Technology of China
-  role: student
-  status: former
-  website: https://www.linkedin.com/in/jingyan-hu-387589372/
-
 - name: "Ray **Ng**"
   title: Senior Scientist
   affiliation: Light Wave Group, IHPC
@@ -87,10 +81,16 @@
   role: student
   status: former
 
+- name: "**Hu** Jingyan"
+  affiliation: University of Science and Technology of China
+  role: student
+  status: former
+  website: https://www.linkedin.com/in/jingyan-hu-387589372/
+
 - name: "**Zhao** Wenkang"
   affiliation: Imperial College London
   role: student
-  status: current
+  status: former
   website: https://www.linkedin.com/in/wenkang-zhao-74ba64227/
 
 - name: "**Chan** Long Shan"
