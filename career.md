@@ -7,7 +7,7 @@ caption: "Theoretical Physicist | Fusion Scientist"
 
 ## Current Work
 
-#### Future Energy Acceleration and Translation Programme, A*STAR (2025 &ndash; present)
+#### Future Energy Acceleration and Translation Centre, A*STAR (2025 &ndash; present)
 *Head, Plasma Physics & Diagnostics*\
 *Principal Investigator*
 
